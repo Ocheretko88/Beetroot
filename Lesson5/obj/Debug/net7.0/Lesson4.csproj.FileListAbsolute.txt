@@ -1,0 +1,15 @@
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/bin/Debug/net7.0/Lesson4
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/bin/Debug/net7.0/Lesson4.deps.json
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/bin/Debug/net7.0/Lesson4.runtimeconfig.json
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/bin/Debug/net7.0/Lesson4.dll
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/bin/Debug/net7.0/Lesson4.pdb
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.csproj.AssemblyReference.cache
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.AssemblyInfoInputs.cache
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.AssemblyInfo.cs
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.csproj.CoreCompileInputs.cache
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.dll
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/refint/Lesson4.dll
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.pdb
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/Lesson4.genruntimeconfig.cache
+/Users/irina/RiderProjects/BeetrootHW/Lesson4/obj/Debug/net7.0/ref/Lesson4.dll
